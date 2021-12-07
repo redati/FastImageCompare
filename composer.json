@@ -1,5 +1,5 @@
 {
-  "name": "yncki/php-fast-image-compare",
+  "name": "redati/php-fast-image-compare",
   "description": "Image Comparer with different aspect ratios and sizes. Can extract duplicate and unique images in directory and much more.",
   "keywords":[
     "image",
