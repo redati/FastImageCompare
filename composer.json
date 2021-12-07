@@ -20,9 +20,7 @@
     "ext-imagick": "*",
     "ext-gd": "*",
     "gumlet/php-image-resize": "1.7.0",
-    "marc1706/fast-image-size": "^1.1",
-    "symfony/var-dumper": "^4.0",
-    "symfony/cache": "^4.0"
+    "marc1706/fast-image-size": "^1.1"
   },
   "require-dev": {
     "phpunit/phpunit": "^7"
